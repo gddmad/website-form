@@ -1,0 +1,37 @@
+C:\Users\George\AppData\Local\Temporary Projects\Website Form\bin\Debug\Website Form.exe.config
+C:\BASIC\Gregory's Website\Website Form\Website Form\obj\Debug\Website_Form.Website.resources
+C:\BASIC\Gregory's Website\Website Form\Website Form\obj\Debug\Website_Form.Resources.resources
+C:\BASIC\Gregory's Website\Website Form\Website Form\obj\Debug\Website Form.vbproj.GenerateResource.Cache
+C:\BASIC\Gregory's Website\Website Form\Website Form\bin\Debug\Interop.WMPLib.dll
+C:\BASIC\Gregory's Website\Website Form\Website Form\bin\Debug\AxInterop.WMPLib.dll
+C:\BASIC\Gregory's Website\Website Form\Website Form\obj\Debug\Interop.WMPLib.dll
+C:\BASIC\Gregory's Website\Website Form\Website Form\obj\Debug\AxInterop.WMPLib.dll
+C:\BASIC\Gregory's Website\Website Form\Website Form\obj\Debug\Website Form.vbproj.ResolveComReference.cache
+C:\BASIC\Gregory's Website\Website Form\Website Form\bin\Debug\Gregory WEBSITE.exe.config
+C:\BASIC\Gregory's Website\Website Form\Website Form\bin\Debug\Gregory WEBSITE.exe
+C:\BASIC\Gregory's Website\Website Form\Website Form\bin\Debug\Gregory WEBSITE.pdb
+C:\BASIC\Gregory's Website\Website Form\Website Form\bin\Debug\Gregory WEBSITE.xml
+C:\BASIC\Gregory's Website\Website Form\Website Form\bin\Debug\Gregory WEBSITE.exe.CodeAnalysisLog.xml
+C:\BASIC\Gregory's Website\Website Form\Website Form\bin\Debug\Gregory WEBSITE.exe.lastcodeanalysissucceeded
+C:\BASIC\Gregory's Website\Website Form\Website Form\obj\Debug\Gregory WEBSITE.exe
+C:\BASIC\Gregory's Website\Website Form\Website Form\obj\Debug\Gregory WEBSITE.xml
+C:\BASIC\Gregory's Website\Website Form\Website Form\obj\Debug\Gregory WEBSITE.pdb
+C:\Gregory\website form\Website Form\bin\Debug\Gregory WEBSITE.exe.config
+C:\Gregory\website form\Website Form\bin\Debug\Gregory WEBSITE.exe
+C:\Gregory\website form\Website Form\bin\Debug\Gregory WEBSITE.pdb
+C:\Gregory\website form\Website Form\bin\Debug\Gregory WEBSITE.xml
+C:\Gregory\website form\Website Form\bin\Debug\Gregory WEBSITE.exe.CodeAnalysisLog.xml
+C:\Gregory\website form\Website Form\bin\Debug\Gregory WEBSITE.exe.lastcodeanalysissucceeded
+C:\Gregory\website form\Website Form\bin\Debug\Interop.WMPLib.dll
+C:\Gregory\website form\Website Form\bin\Debug\AxInterop.WMPLib.dll
+C:\Gregory\website form\Website Form\obj\Debug\Interop.WMPLib.dll
+C:\Gregory\website form\Website Form\obj\Debug\AxInterop.WMPLib.dll
+C:\Gregory\website form\Website Form\obj\Debug\Website Form.vbproj.ResolveComReference.cache
+C:\Gregory\website form\Website Form\obj\Debug\Website_Form.Website.resources
+C:\Gregory\website form\Website Form\obj\Debug\Website_Form.Resources.resources
+C:\Gregory\website form\Website Form\obj\Debug\Website Form.vbproj.GenerateResource.Cache
+C:\Gregory\website form\Website Form\obj\Debug\Website Form.vbproj.CoreCompileInputs.cache
+C:\Gregory\website form\Website Form\obj\Debug\Gregory WEBSITE.exe
+C:\Gregory\website form\Website Form\obj\Debug\Gregory WEBSITE.xml
+C:\Gregory\website form\Website Form\obj\Debug\Gregory WEBSITE.pdb
+C:\Gregory\website form\Website Form\obj\Debug\Website Form.vbprojAssemblyReference.cache
